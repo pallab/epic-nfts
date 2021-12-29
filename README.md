@@ -17,3 +17,5 @@ npx hardhat help
 Minted NFTs:
 https://testnets.opensea.io/collection/squarenft-hdb7rvphgh
 
+Contract with OnChain data 
+0xba650351d92B073AB375a8Dbc27e5816d94e8b38
