@@ -13,3 +13,7 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+
+Minted NFTs:
+https://testnets.opensea.io/collection/squarenft-hdb7rvphgh
+
